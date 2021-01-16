@@ -13,3 +13,22 @@ class cube(object):
         pass
     def draw(self, surface, eyes=False):
         pass
+
+class snake(object):
+    def __init__(self):
+        pass
+    def move(self):
+        pass
+    def reset(self):
+        pass
+    def addCube(self):
+        pass
+    def draw(self, surface):
+
+def drawGrid(w, rows, surface):
+    pass
+def redrawWindow(surface):
+    pass
+def randomSnack(rows, items):
+    pass
+def message_box(subject, content)
